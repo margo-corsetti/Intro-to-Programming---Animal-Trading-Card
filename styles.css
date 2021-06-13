@@ -1,0 +1,46 @@
+/* add your CSS here */
+h3{
+  font-weight: bold;
+  margin-left: 25px;
+  padding-bottom: 0px;
+  margin-bottom: 25px;
+}
+
+p{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+span{
+  font-weight: bold;
+}
+
+ul{
+  padding-left: 10px;
+  list-style: none;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+}
+
+#interestingfact{
+  font-style: italic;
+}
+
+.container1{
+  width: 350px;
+  height: 840px;
+  border: 1px solid grey;
+}
+
+.container2{
+  border: 1px solid grey;
+  width: 300px;
+  height: 540px;
+  margin: auto;
+
+}
